@@ -1,2 +1,1 @@
-# AI
-Collection of my AI projects
+****Collection of my AI projects
